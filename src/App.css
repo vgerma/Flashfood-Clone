@@ -1,0 +1,21 @@
+.App{
+    width:auto;
+}
+.app-top{
+    border: 1px black solid;
+}
+.app-top{
+    width: 100%;
+    height: 90vh;
+    max-height: 100vh;
+    min-height: 400px;
+    object-fit: fill;
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin-bottom: 1px;
+    padding-top: 0;
+    padding-bottom: 60px;
+    border:1px solid white;
+    background-image: url("https://assets-global.website-files.com/5e4482baa13a1926b23e2187/6227e532329aa42351839eb0_Home%20-%20hero%20qr%20code.png");
+    color:white;
+}

@@ -1,0 +1,49 @@
+
+.footer{
+    /* border: 2px red solid; */
+    background-color: #4230dd;
+    background-image: url("https://assets-global.website-files.com/5e4482baa13a1926b23e2187/607f342e86767b926943b932_flashfood-phone-cta-sfw-p-1080.jpeg");
+    width: 100%;
+    height: 100vh;
+    position:relative;
+    /* max-height: 100vh; */
+    /* min-height: 400px; */
+    /* object-fit: fill; */
+    background-repeat: no-repeat;
+    background-size:contain;
+    margin-top:-75px ;
+    background-position: 100% 0%;
+    overflow: hidden;
+}
+
+.footer-top{
+    margin-top:120px;
+    margin-left: 180px;
+    color:white;
+    width:400px;
+    font-size: 1.2rem;
+}
+.footer-top>p{
+    color:#caf4e0;
+    font-size: 28px;
+    font-weight: 700;
+}
+
+
+.footer-top>img{
+    width:180px;
+    margin-right: 10px;
+}
+
+.footer-wave{
+    padding:0;
+    /* border: 2px red solid; */
+    width:100%;
+    position: absolute;
+    bottom:0;   
+}
+.footer-wave>img{
+    width:100%;
+    margin:0;
+    margin-bottom: -4px;
+}
